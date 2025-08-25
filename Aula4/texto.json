@@ -1,0 +1,21 @@
+[
+{   
+  "0" :  {
+        "nome": "joab",
+        "idade": 16,
+        "profissao" : ["motoboy de ifood", "animador de festa", "servente de pedreiro"]
+    },
+
+    "1":{
+        "nome": "micheal jackson",
+        "idade": 32,
+        "profissao" : "frentista"
+    },
+
+"2":{
+        "nome": "samuel",
+        "idade": 9,
+        "profissao" : "homem robo"
+    }
+}
+]
